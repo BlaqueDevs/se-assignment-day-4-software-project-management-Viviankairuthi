@@ -148,7 +148,83 @@ Week 6-7:Testing phase
 
 Week 8:Final deployment
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core Issues my Mental Health App Aims to Address
+
+My app will focus on bridging the gaps in mental health especially for young people and working professionals wh struggle with mental well being but lack accessible resources
+
+The key issues it will tackle include:
+
+1. Lack of Immediate Support During Mental Health Crises
+
+Problem:Many people experience panic attacks, anxiety episodes, or depressive thoughts but don’t have immediate access to help.
+
+Solution:The app will offer a Crisis Mode feature with guided breathing exercises, calming techniques, and AI chatbot support to provide instant relief.
+
+
+2. Stigma Around Seeking Therapy
+
+Problem: Mental health is still stigmatized, making people hesitant to seek professional help.
+
+Solution: The app will provide anonymous support groups where users can share their struggles safely and get encouragement from others.
+
+
+3. Expensive & Inaccessible Therapy
+
+Problem: Therapy is costly hence many people can't manage to pay for regular sessions
+
+Solution: The app will introduce affordable therapy plans and AI powered mental health insights this will allow users to track their emotional health even if they can’t afford a therapist.
+
+
+4. Lack of Personalized Mental Health Tracking
+
+Problem: Many existing apps or software provide generic advice rather than customized solutions.
+
+Solution: The app will use AI powered mood tracking to analyze patterns and suggest personalized coping strategies based on the user’s emotions and habits.
+
+
+5. Poor Mental Health Awareness & Self Care Habits
+
+Problem:People often ignore their mental health until they hit rock bottom.
+
+Solution: Your app will encourage daily wellness check ins, journaling prompts, and gamified self care challenges to make mental health a priority.
+
+Why These Issues Matter to Your Target Audience
+
+- Young professionals & students struggle with stress, burnout, and anxiety but don’t always recognize the signs early enough.
+
+- Low-income individuals can’t afford therapy, so having affordable mental health resources is crucial.
+
+- People facing stigma (especially in African cultures) need a safe, private space to address their mental health.Including our parents who might not be open to sharing their struggles
+
+There are those people that need instant help when experiencing mental health crises it's be better than waiting for a therapist's appointment
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+problem isn’t well-defined, the solution might end up being ineffective or too broad to truly help users. By clearly identifying the issue, I can create a more focused and impactful solution.
+
+
+1. It Ensures the Software Solves the Right Problem
+
+If I don’t define the problem properly, I might end up building a solution that doesn’t really help users. When the issue is clear, I can design features that directly address user needs. For example, instead of just saying "mental health support is needed,* I can focus on something more specific like "young professionals need quick, accessible tools to manage anxiety on the go.
+
+
+2. It Helps Avoid Unnecessary Features and Scope Creep
+
+A well-defined problem keeps the project on track. Without it, I might keep adding extra features that don’t actually contribute to solving the main issue, leading to delays and unnecessary costs. If my main goal is to provide affordable mental health support, then I should prioritize self-help tools and AI-driven guidance instead of spending time on fancy UI customizations.
+
+
+3. It Saves Time, Effort, and Budget
+
+Clearly defining the problem allows me to use resources efficiently. I won’t waste time or money on things that aren’t essential. For example, if the real issue is a lack of access to therapists, my focus should be on integrating AI based mental health support or affordable virtual therapy sessions, instead of features that don’t contribute to that goal.
+
+
+4. It Increases User Adoption and Engagement
+
+If my software directly addresses a real pain point, people are more likely to use and stick with it. Users want something that solves their specific problem, not a generic app that tries to do too much. For example, if I create an app that provides instant coping strategies for anxiety attacks, it will likely be more helpful than a general wellness app that doesn’t offer real-time support.
+
+
+5. It Provides a Strong Basis for Testing and Improvement
+
+When I know exactly what problem I’m solving, I can track my progress better. I can set measurable goals like tracking how many users report reduced anxiety after using the app and adjust the features based on real feedback. This ensures continuous improvement and a product that actually makes a difference.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
